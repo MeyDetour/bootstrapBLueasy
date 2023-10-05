@@ -1,0 +1,12 @@
+body{
+    overflow-x: hidden;
+}
+
+.blé{
+    background-image: url("images/HERO.jpg");
+    width: 100vw;
+
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}

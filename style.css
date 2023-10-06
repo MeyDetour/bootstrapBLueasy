@@ -10,3 +10,71 @@ body{
     background-size: cover;
     background-position: center;
 }
+.hauteur{
+    height: 80vh;
+}
+
+.fondBleu{
+    background-image: url("images/fondservices.png");
+    width: 100vw;
+
+    background-size: cover;
+}
+.fondReaseaux{
+    background-color: #8CB3D7;
+
+}
+.saisie{
+    background-color: #8CB3D7;
+}
+.btnmessage{
+    border-radius: 0;
+    padding-left: 120px;
+    padding-right: 120px;
+
+
+}
+.bandeauFin{
+    border-right: #353F46 2px solid;
+}
+.visitMe{
+
+
+    border: #353F46 4px solid;
+    color: #353F46;
+}
+.iconeBleu{
+    height: 70px;
+    width: 50px;
+}
+.imagePhoto{
+    height: 220px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.un{
+    background-image: url("images/portfolio/1.png");
+}
+.deux{
+    background-image: url("images/portfolio/2.png");
+}
+.trois{
+    background-image: url("images/portfolio/3.png");
+}
+.quatre{
+    background-image: url("images/portfolio/4.png");
+}
+.cinq{
+    background-image: url("images/portfolio/5.png");
+}
+.six{
+    background-image: url("images/portfolio/6.png");
+}
+.sept{
+    background-image: url("images/portfolio/7.png");
+}
+.huit{
+    background-image: url("images/portfolio/8.png");
+}
